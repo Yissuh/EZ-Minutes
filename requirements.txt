@@ -1,0 +1,20 @@
+ollama==0.4.7
+PyMuPDF==1.25.5
+PySide6==6.9.0
+python-docx==1.1.2
+tiktoken==0.9.0
+faster-whisper==1.0.3
+pyannote.audio==3.3.2
+PySide6==6.9.0
+polars==1.12.0
+onnxruntime-gpu==1.20.0
+intervaltree==3.1.0
+transformers==4.50.3
+
+
+--find-links https://download.pytorch.org/whl/cu124/torch
+torch==2.6.0+cu124
+--find-links https://download.pytorch.org/whl/cu124/torchvision
+torchvision==0.21.0+cu124
+--find-links https://download.pytorch.org/whl/cu124/torchaudio
+torchaudio==2.6.0+cu124

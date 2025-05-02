@@ -1,0 +1,25 @@
+OBJECT NAMES FOR CALLING OUT
+
+TRANSCRIPTION PAGE:
+- agendaInput
+- attendeesInput
+- transcriptDisplay
+- uploadBtn
+- transcribeBtn
+- proceedBtn
+
+MINUTES PAGE:
+- minutesDisplay
+- returnBtn
+- generateBtn
+- saveBtn
+- exportBtn
+
+ACTIVITY LOG PAGE:
+- logTranscriptDisplay
+- logMinutesDisplay
+- returnLogBtn
+- logGenerateBtn
+- logExportBtn
+
+CHECK VARIABLE NAMES IN STATE VARIABLES

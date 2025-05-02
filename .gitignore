@@ -1,0 +1,5 @@
+/models/*
+/outputs/
+/translations/
+/__pycache__/
+meetings.db

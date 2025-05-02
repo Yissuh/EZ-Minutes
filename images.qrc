@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="buttons">
+    <file>images/buttons/generateBtn.png</file>
+    <file>images/buttons/saveBtn.png</file>
+    <file>images/buttons/returnBtn.png</file>
+    <file>images/buttons/proceedBtn.png</file>
+    <file>images/buttons/transcribeBtn.png</file>
+    <file>images/buttons/uploadBtn.png</file>
+    <file>images/buttons/ActivityLog.png</file>
+    <file>images/buttons/Home.png</file>
+    <file>images/buttons/getStartedBtn.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>images/icons/clear.png</file>
+    <file>images/icons/delete.png</file>
+    <file>images/icons/upload.png</file>
+    <file>images/icons/LogoNew.png</file>
+    <file>images/icons/LogoUpdate.png</file>
+    <file>images/icons/download.png</file>
+    <file>images/icons/play.png</file>
+    <file>images/icons/close.png</file>
+    <file>images/icons/closeDrawer.png</file>
+    <file>images/icons/closeTwo.png</file>
+    <file>images/icons/exit.png</file>
+    <file>images/icons/logo.png</file>
+    <file>images/icons/maxWindow.png</file>
+    <file>images/icons/minimize.png</file>
+    <file>images/icons/minWindow.png</file>
+    <file>images/icons/openDrawer.png</file>
+  </qresource>
+  <qresource prefix="bgs">
+    <file>images/homebg.png</file>
+    <file>images/hupdated.png</file>
+    <file>images/silk.png</file>
+    <file>images/ht2.png</file>
+    <file>images/ht3.png</file>
+    <file>images/ht.png</file>
+    <file>images/home.png</file>
+  </qresource>
+</RCC>
